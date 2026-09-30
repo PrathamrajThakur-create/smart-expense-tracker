@@ -49,4 +49,9 @@ python -m unittest discover tests -v
 ```
 
 ## Screenshots
-Add screenshots of the menu, a report, and a budget alert here (`docs/screenshots/`).
+<img width="1917" height="1015" alt="Screenshot 2026-09-30 132323" src="https://github.com/user-attachments/assets/ba9d07c6-d031-48f8-9162-eacd4ccfdbe0" />
+
+## Author 
+```
+Pratham Raj Thakur
+```
