@@ -1,0 +1,16 @@
+2026-09-30 07:09:16,859 INFO Added expense 72eee081
+2026-09-30 07:09:16,860 INFO Added expense 80ad1d8c
+2026-09-30 07:09:16,860 INFO Added expense cba25997
+2026-09-30 07:09:16,862 INFO Added expense f25d8e5a
+2026-09-30 07:09:16,862 INFO Added expense 755e39fa
+2026-09-30 07:09:16,863 INFO Added expense 9349a72e
+2026-09-30 07:09:16,864 INFO Added expense 82ec8ce2
+2026-09-30 07:09:16,864 INFO Added expense 2fb6d2bf
+2026-09-30 07:09:16,864 INFO Added expense 51a6f015
+2026-09-30 07:09:16,865 INFO Added expense 7ca9a704
+2026-09-30 07:09:16,865 ERROR Corrupt data file moved to /tmp/tmpdyh4ospj/data.corrupt (Expecting property name enclosed in double quotes: line 1 column 2 (char 1))
+2026-09-30 07:09:16,866 INFO Added expense 55b459d5
+2026-09-30 07:09:16,866 INFO Added expense 6c2b7477
+2026-09-30 07:09:16,868 INFO Added expense debe46e6
+2026-09-30 07:09:16,868 INFO Updated expense debe46e6
+2026-09-30 07:09:16,869 INFO Deleted expense debe46e6

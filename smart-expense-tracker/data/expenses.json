@@ -1,0 +1,12 @@
+{
+  "expenses": [
+    {
+      "amount": 5000.0,
+      "category": "Other",
+      "description": "tech stuff",
+      "date": "2026-09-30",
+      "id": "e0097d4c"
+    }
+  ],
+  "budgets": {}
+}
